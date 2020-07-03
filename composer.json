@@ -1,0 +1,6 @@
+{
+    "require": {
+        "facebook/webdriver": "^1.7",
+        "applitools/eyes.sdk.php": "^1.3"
+    }
+}
